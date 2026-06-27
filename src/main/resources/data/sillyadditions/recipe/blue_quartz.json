@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:quartz"
+    },
+    "B": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "id": "sillyadditions:blue_quartz",
+    "count": 1
+  }
+}
